@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lost in spce",
+"dataUrl": "lost3.data.unityweb",
+"asmCodeUrl": "lost3.asm.code.unityweb",
+"asmMemoryUrl": "lost3.asm.memory.unityweb",
+"asmFrameworkUrl": "lost3.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
